@@ -34,11 +34,9 @@ Get the Twitter User ID of the user you want to track. In this case, YRDSB's Twi
 
 ![Find Twitter User ID](https://i.imgur.com/UfE6R4q.png)
 
-Save all changes and run the bot via a command-line program on your operating system. (For example, py yrdsbbot.py and the bot should print Discord Webhook Bot is online! when its ready)
-
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Save all changes and run the bot via a command-line program on your operating system. (For example, py yrdsbbot.py and the bot should print Discord Webhook Bot is online! when its ready)
 
 ## Built With
 
