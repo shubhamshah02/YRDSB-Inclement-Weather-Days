@@ -24,9 +24,8 @@ A step by step series of examples that tell you how to get this bot running on y
 
 Open the yrdsbbot.py file and fill the empty variables with your Twitter Developer authentications.
 
-```
 ![Image of yrdsbbot.py](https://i.imgur.com/TawEUH0.png)
-```
+
 
 And repeat
 
