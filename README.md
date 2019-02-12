@@ -10,7 +10,7 @@ This bot will need to run 24/7 on a system with Python 3 or higher. See deployme
 
 What things you need to install the software and how to install them. 
 
-```You will need to apply for a Twitter Developers API key to get the Consumer Key, Consumer Secret, Access Token and the Access Token Secret. You can do that [here](https://developer.twitter.com/en/apply-for-access).
+```You will need to apply for a Twitter Developers API key to get the Consumer Key, Consumer Secret, Access Token and the Access Token Secret. You can do that [here](https://developer.twitter.com/en/apply-for-access).```
 
 ```
 Tweepy - For accessing Twitter API (pip install tweepy)
@@ -25,7 +25,7 @@ A step by step series of examples that tell you how to get this bot running on y
 Open the yrdsbbot.py file and fill the empty variables with your Twitter Developer authentications.
 
 ```
-Give the example
+![Image of yrdsbbot.py](https://i.imgur.com/TawEUH0.png)
 ```
 
 And repeat
