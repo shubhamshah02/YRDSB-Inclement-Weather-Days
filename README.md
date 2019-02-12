@@ -10,7 +10,7 @@ This bot will need to run 24/7 on a system with Python 3 or higher. See deployme
 
 What things you need to install the software and how to install them. 
 
-```You will need to apply for a Twitter Developers API key to get the Consumer Key, Consumer Secret, Access Token and the Access Token Secret. You can do that [here](https://developer.twitter.com/en/apply-for-access).```
+You will need to apply for a Twitter Developers API key to get the Consumer Key, Consumer Secret, Access Token and the Access Token Secret. You can do that [here](https://developer.twitter.com/en/apply-for-access).
 
 ```
 Tweepy - For accessing Twitter API (pip install tweepy)
@@ -26,32 +26,15 @@ Open the yrdsbbot.py file and fill the empty variables with your Twitter Develop
 
 ![Image of yrdsbbot.py](https://i.imgur.com/TawEUH0.png)
 
-
 Open Discord and choose a channel where you want these messages to be posted. Click settings and create a new Webhook. Name the webhook, give it a profile picture and copy the URL and add it to the webhooks list on yrdsbbot.py.
 
 ![Discord Webhooks](https://support.discordapp.com/hc/article_attachments/360007455811/1_.jpg)
 
-End with an example of getting some data out of the system or using it for a little demo
+Get the Twitter User ID of the user you want to track. In this case, YRDSB's Twitter ID is 593188821. To find this User ID, click [here](http://gettwitterid.com/)
 
-## Running the tests
+![Find Twitter User ID](https://i.imgur.com/UfE6R4q.png)
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+Save all changes and run the bot via a command-line program on your operating system. (For example, py yrdsbbot.py and the bot should print Discord Webhook Bot is online! when its ready)
 
 ## Deployment
 
@@ -59,31 +42,16 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+* [Twitter](https://twitter.com/?lang=en) - Popular Social Media Platform
+* [Tweepy](http://www.tweepy.org/) - Python module to access the Twitter API
+* [dhooks](https://github.com/kyb3r/dhooks) - Used to send embed data to Discord via Webhooks
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+* **Shubham Shah** - *Full development* - [SpikePlayz](https://github.com/SpikePlayz)
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Hat tip to anyone whose code was used. Thx <3
+* Inspiration (There's nothing like this available and the YRDSB website needs an upgrade)
 
