@@ -27,11 +27,9 @@ Open the yrdsbbot.py file and fill the empty variables with your Twitter Develop
 ![Image of yrdsbbot.py](https://i.imgur.com/TawEUH0.png)
 
 
-And repeat
+Open Discord and choose a channel where you want these messages to be posted. Click settings and create a new Webhook. Name the webhook, give it a profile picture and copy the URL and add it to the webhooks list on yrdsbbot.py.
 
-```
-until finished
-```
+![Discord Webhooks](https://support.discordapp.com/hc/article_attachments/360007455811/1_.jpg)
 
 End with an example of getting some data out of the system or using it for a little demo
 
