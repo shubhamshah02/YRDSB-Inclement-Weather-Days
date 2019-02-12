@@ -60,7 +60,7 @@ class StdOutListener(StreamListener):
                             pass
                         for x in webhooks:
                             hook = Webhook(x)
-							hook.send(embed=embed)
+                            hook.send(embed=embed)
         except:
             pass
          
