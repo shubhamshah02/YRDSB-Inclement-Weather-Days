@@ -1,6 +1,6 @@
 # YRDSB Inclement Weather Days
 
-This bot runs a constant stream of the @YRDSB Twitter page using the Twitter API and the Tweepy module and uses Discord Webhooks to post on a server. This project is fully open sourced.
+This bot runs a constant stream of the [@YRDSB Twitter](https://twitter.com/YRDSB?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) page using the Twitter API and the Tweepy module and uses Discord Webhooks to post on a server. This project is fully open sourced.
 
 ## Getting Started
 
