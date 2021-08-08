@@ -14,7 +14,7 @@ You will need to apply for a Twitter Developers API key to get the Consumer Key,
 
 ```
 Tweepy - For accessing Twitter API (pip install tweepy)
-JSON - For reading API responses (pip install json)
+JSON - For reading API responses (default)
 dhooks - For forwarding content via Embed to Discord (pip install dhooks)
 ```
 
